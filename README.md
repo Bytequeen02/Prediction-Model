@@ -13,8 +13,7 @@ A machine learning web application that predicts whether a tumor is **benign** o
 
 ## 📽️ Demo
 
-![Demo Screenshot](![Screenshot 2025-05-08 194354](https://github.com/user-attachments/assets/9f0e7dd7-9667-465e-a25b-0372f251060b)
-)
+(![Screenshot 2025-05-08 194354](https://github.com/user-attachments/assets/9f0e7dd7-9667-465e-a25b-0372f251060b))
 
 ## 🚀 Live Preview
 
@@ -75,8 +74,8 @@ streamlit run streamlit_app.py
 
 | Input Page (Flask) | Streamlit App |
 |--------------------|----------------|
-| ![](![Screenshot 2025-05-08 193705](https://github.com/user-attachments/assets/3149aac5-6ddf-4bcd-933a-43b33b5238cf)) | ![](![Screenshot 2025-05-08 194848](https://github.com/user-attachments/assets/9228cd52-444e-40ef-a5ec-759c641cf448)
-) |
+|(![Screenshot 2025-05-08 193705](https://github.com/user-attachments/assets/3149aac5-6ddf-4bcd-933a-43b33b5238cf)) | ![](![Screenshot 2025-05-08 194848](https://github.com/user-attachments/assets/9228cd52-444e-40ef-a5ec-759c641cf448)
+
 
 ## 🤝 Contributing
 
