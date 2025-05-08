@@ -17,7 +17,7 @@ A machine learning web application that predicts whether a tumor is **benign** o
 
 ## 🚀 Live Preview
 
-[Click here to try the app](https://your-deployed-app-link.com)
+[Click here to try the app](https://prediction-model-brewvvzcvappdkye4pcvfxh.streamlit.app/)
 
 ## 🛠️ Tech Stack
 
